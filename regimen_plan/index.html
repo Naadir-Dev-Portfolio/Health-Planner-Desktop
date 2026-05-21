@@ -1,0 +1,112 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Daily Routine</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="bg" id="bg">
+    <div class="bg-layer bg-morning" data-bg="morning"></div>
+    <div class="bg-layer bg-midday" data-bg="midday"></div>
+    <div class="bg-layer bg-night" data-bg="night"></div>
+    <div class="bg-layer bg-all" data-bg="all"></div>
+    <div class="bg-grad"></div>
+    <div class="bg-radial"></div>
+  </div>
+
+  <main class="shell">
+    <header class="header">
+      <div class="titleBlock">
+        <h1>Daily Routine</h1>
+      </div>
+
+      <div class="headerActions">
+        <button class="btn pill" id="openCalendarBtn" title="Calendar">
+          <span class="icon">&#128197;</span><span>Calendar</span>
+        </button>
+      </div>
+    </header>
+
+    <section class="controls">
+      <div class="chips">
+        <div class="chipLabel">Period</div>
+        <button class="chip active" data-period="all">All</button>
+        <button class="chip" data-period="morning">Morning</button>
+        <button class="chip" data-period="midday">Midday</button>
+        <button class="chip" data-period="night">Night</button>
+      </div>
+
+      <div class="chips">
+        <div class="chipLabel">Category</div>
+        <button class="chip active" data-cat="all">All</button>
+        <button class="chip" data-cat="supplements">Supplements</button>
+        <button class="chip" data-cat="hair_care">Hair</button>
+        <button class="chip" data-cat="skin_care">Skin</button>
+      </div>
+
+      <div class="searchWrap">
+        <input id="searchInput" class="search" placeholder="Search..." />
+      </div>
+    </section>
+
+    <section class="dateRow">
+      <button class="btn circle arrowBtn left" id="prevDayBtn" title="Previous day" aria-label="Previous day"><span class="arrowIcon"></span></button>
+      <div class="dateTitle">
+        <div class="dateMain" id="dateMain">&mdash;</div>
+        <div class="dateSub" id="dateSub">&mdash;</div>
+      </div>
+      <button class="btn circle arrowBtn right" id="nextDayBtn" title="Next day" aria-label="Next day"><span class="arrowIcon"></span></button>
+    </section>
+
+    <section class="timeline">
+      <button class="btn circle nav arrowBtn left" id="scrollLeftBtn" title="Scroll left" aria-label="Scroll left"><span class="arrowIcon"></span></button>
+      <div class="cards" id="cards" aria-label="Routine cards" tabindex="0"></div>
+      <button class="btn circle nav arrowBtn right" id="scrollRightBtn" title="Scroll right" aria-label="Scroll right"><span class="arrowIcon"></span></button>
+    </section>
+
+    <section class="details">
+      <div class="panel">
+        <div class="panelHead">
+          <div class="panelTitle">Quick summary</div>
+          <div class="panelHint" id="summaryHint">&mdash;</div>
+        </div>
+        <div class="panelBody" id="summaryBody">
+          <div class="empty">&mdash;</div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Calendar Modal -->
+  <div class="modal" id="calendarModal" aria-hidden="true">
+    <div class="modalBackdrop" id="calendarBackdrop"></div>
+    <div class="modalCard" role="dialog" aria-modal="true" aria-labelledby="calTitle">
+      <div class="modalHead">
+        <div class="modalTitle" id="calTitle">Monthly Planner</div>
+        <button class="btn circle" id="closeCalendarBtn" title="Close">&times;</button>
+      </div>
+
+      <div class="monthBar">
+        <button class="btn circle arrowBtn left" id="prevMonthBtn" title="Previous month" aria-label="Previous month"><span class="arrowIcon"></span></button>
+        <div class="monthLabel" id="monthLabel">&mdash;</div>
+        <button class="btn circle arrowBtn right" id="nextMonthBtn" title="Next month" aria-label="Next month"><span class="arrowIcon"></span></button>
+      </div>
+
+      <div class="calGrid">
+        <div class="dow">
+          <div>Sun</div><div>Mon</div><div>Tue</div><div>Wed</div><div>Thu</div><div>Fri</div><div>Sat</div>
+        </div>
+        <div class="days" id="days"></div>
+      </div>
+
+      <div class="tooltip" id="tooltip" hidden></div>
+    </div>
+  </div>
+
+  <script src="./data/routine.data.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>
+

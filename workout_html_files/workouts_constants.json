@@ -1,0 +1,1535 @@
+[
+    {
+        "WORKOUT_ID":  "WF-BIKE-B30",
+        "WORKOUT_NAME":  "Bike Base (Aerobic)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Easy spin",
+                              "duration":  "00:05:00",
+                              "notes":  "Light cadence; nasal breathing."
+                          },
+                          {
+                              "title":  "Steady ride RPE 4–5",
+                              "duration":  "00:20:00",
+                              "notes":  "Conversational pace."
+                          },
+                          {
+                              "title":  "Cooldown",
+                              "duration":  "00:05:00",
+                              "notes":  "Gradually lower heart rate."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-BIKE-B40",
+        "WORKOUT_NAME":  "Bike Base Long (Aerobic)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Easy spin",
+                              "duration":  "00:05:00",
+                              "notes":  "Relaxed start."
+                          },
+                          {
+                              "title":  "Steady ride RPE 4–5",
+                              "duration":  "00:30:00",
+                              "notes":  "Fuel rhythm; stay aerobic."
+                          },
+                          {
+                              "title":  "Cooldown",
+                              "duration":  "00:05:00",
+                              "notes":  "Spin light; recover."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-BIKE-I30",
+        "WORKOUT_NAME":  "Bike Intervals (Controlled)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Warm-up",
+                              "duration":  "00:06:00",
+                              "notes":  "Progressively build cadence and heat."
+                          },
+                          {
+                              "title":  "Moderate interval",
+                              "duration":  "00:01:00",
+                              "notes":  "Smooth power; RPE ~6."
+                          },
+                          {
+                              "title":  "Hard-controlled interval",
+                              "duration":  "00:00:30",
+                              "notes":  "Strong but repeatable; no sprinting."
+                          },
+                          {
+                              "title":  "Moderate interval",
+                              "duration":  "00:01:00",
+                              "notes":  "Settle breathing quickly."
+                          },
+                          {
+                              "title":  "Hard-controlled interval",
+                              "duration":  "00:00:30",
+                              "notes":  "Stay seated if possible."
+                          },
+                          {
+                              "title":  "Moderate interval",
+                              "duration":  "00:01:00",
+                              "notes":  "Consistent output."
+                          },
+                          {
+                              "title":  "Hard-controlled interval",
+                              "duration":  "00:00:30",
+                              "notes":  "Sharp, controlled push."
+                          },
+                          {
+                              "title":  "Moderate interval",
+                              "duration":  "00:01:00",
+                              "notes":  "Cadence steady."
+                          },
+                          {
+                              "title":  "Hard-controlled interval",
+                              "duration":  "00:00:30",
+                              "notes":  "Breathing hard, form clean."
+                          },
+                          {
+                              "title":  "Moderate interval",
+                              "duration":  "00:01:00",
+                              "notes":  "Recover without dropping effort."
+                          },
+                          {
+                              "title":  "Hard-controlled interval",
+                              "duration":  "00:00:30",
+                              "notes":  "Drive through pedals."
+                          },
+                          {
+                              "title":  "Moderate interval",
+                              "duration":  "00:01:00",
+                              "notes":  "Relax shoulders."
+                          },
+                          {
+                              "title":  "Hard-controlled interval",
+                              "duration":  "00:00:30",
+                              "notes":  "Stay smooth."
+                          },
+                          {
+                              "title":  "Moderate interval",
+                              "duration":  "00:01:00",
+                              "notes":  "Rhythm locked in."
+                          },
+                          {
+                              "title":  "Hard-controlled interval",
+                              "duration":  "00:00:30",
+                              "notes":  "No pacing spikes."
+                          },
+                          {
+                              "title":  "Moderate interval",
+                              "duration":  "00:01:00",
+                              "notes":  "Breathing under control."
+                          },
+                          {
+                              "title":  "Hard-controlled interval",
+                              "duration":  "00:00:30",
+                              "notes":  "Firm effort."
+                          },
+                          {
+                              "title":  "Moderate interval",
+                              "duration":  "00:01:00",
+                              "notes":  "Maintain cadence."
+                          },
+                          {
+                              "title":  "Hard-controlled interval",
+                              "duration":  "00:00:30",
+                              "notes":  "Last reps strong."
+                          },
+                          {
+                              "title":  "Moderate interval",
+                              "duration":  "00:01:00",
+                              "notes":  "Stay composed."
+                          },
+                          {
+                              "title":  "Hard-controlled interval",
+                              "duration":  "00:00:30",
+                              "notes":  "Finish clean."
+                          },
+                          {
+                              "title":  "Moderate interval",
+                              "duration":  "00:01:00",
+                              "notes":  "Controlled fatigue."
+                          },
+                          {
+                              "title":  "Hard-controlled interval",
+                              "duration":  "00:00:30",
+                              "notes":  "Final push."
+                          },
+                          {
+                              "title":  "Moderate interval",
+                              "duration":  "00:01:00",
+                              "notes":  "Ease toward finish."
+                          },
+                          {
+                              "title":  "Hard-controlled interval",
+                              "duration":  "00:00:30",
+                              "notes":  "Strong, not maximal."
+                          },
+                          {
+                              "title":  "Cooldown",
+                              "duration":  "00:06:00",
+                              "notes":  "Easy spin; long exhales."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-BIKE-T25",
+        "WORKOUT_NAME":  "Bike Tempo (Office-friendly)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Warm-up",
+                              "duration":  "00:05:00",
+                              "notes":  "Smooth cadence."
+                          },
+                          {
+                              "title":  "Tempo ride RPE 6–7",
+                              "duration":  "00:15:00",
+                              "notes":  "Firm effort; brief stands allowed."
+                          },
+                          {
+                              "title":  "Cooldown",
+                              "duration":  "00:05:00",
+                              "notes":  "Ease off gradually."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-CARDIO20",
+        "WORKOUT_NAME":  "Cardio Reset (Stress Relief)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Easy warm-up",
+                              "duration":  "00:03:00",
+                              "notes":  "Relaxed pace."
+                          },
+                          {
+                              "title":  "Steady cardio RPE 4–5",
+                              "duration":  "00:14:00",
+                              "notes":  "Conversational effort."
+                          },
+                          {
+                              "title":  "Cooldown",
+                              "duration":  "00:03:00",
+                              "notes":  "Gradual downshift."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-CORE-10",
+        "WORKOUT_NAME":  "Core Focus (Base)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Breathing + posterior pelvic tilt",
+                              "duration":  "00:02:00",
+                              "notes":  "Flatten lower back."
+                          },
+                          {
+                              "title":  "Hollow hold 3×20–30s",
+                              "duration":  "00:03:00",
+                              "notes":  "Low ribs down."
+                          },
+                          {
+                              "title":  "Side plank 20–40s/side",
+                              "duration":  "00:02:00",
+                              "notes":  "Straight line head to heel."
+                          },
+                          {
+                              "title":  "Anti-rotation isometrics",
+                              "duration":  "00:03:00",
+                              "notes":  "Resist all movement."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-CORE-HANG10",
+        "WORKOUT_NAME":  "Hanging Core (Bar)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Hang prep: dead hang",
+                              "duration":  "00:02:00",
+                              "notes":  "Active shoulders."
+                          },
+                          {
+                              "title":  "Hanging knee raises",
+                              "duration":  "00:05:00",
+                              "notes":  "No swing; controlled reps."
+                          },
+                          {
+                              "title":  "Side plank 30–45s/side",
+                              "duration":  "00:03:00",
+                              "notes":  "Brace obliques."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-CORE-ONLY8",
+        "WORKOUT_NAME":  "Core Only (Minimum Effective)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Breathing + pelvic tilt",
+                              "duration":  "00:02:00",
+                              "notes":  "Set core position."
+                          },
+                          {
+                              "title":  "Hollow hold",
+                              "duration":  "00:03:00",
+                              "notes":  "Low back flat."
+                          },
+                          {
+                              "title":  "Side plank",
+                              "duration":  "00:03:00",
+                              "notes":  "Obliques engaged."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-DB-ARMS15",
+        "WORKOUT_NAME":  "Dumbbell Arms (Biceps/Triceps Hypertrophy)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Warm-up: arm circles + light curls",
+                              "duration":  "00:02:00",
+                              "notes":  "Prep elbows."
+                          },
+                          {
+                              "title":  "DB alternating curls",
+                              "duration":  "00:04:00",
+                              "notes":  "3s eccentric."
+                          },
+                          {
+                              "title":  "DB hammer curls",
+                              "duration":  "00:04:00",
+                              "notes":  "Neutral grip."
+                          },
+                          {
+                              "title":  "DB overhead triceps extension",
+                              "duration":  "00:03:00",
+                              "notes":  "Elbows steady."
+                          },
+                          {
+                              "title":  "Stretch",
+                              "duration":  "00:02:00",
+                              "notes":  "Relax arms."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-DB-LEGS20",
+        "WORKOUT_NAME":  "Dumbbell Legs (Glutes/Legs)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Warm-up",
+                              "duration":  "00:03:00",
+                              "notes":  "Prep hips and knees."
+                          },
+                          {
+                              "title":  "Goblet squat",
+                              "duration":  "00:08:00",
+                              "notes":  "Upright torso."
+                          },
+                          {
+                              "title":  "DB split squat",
+                              "duration":  "00:06:00",
+                              "notes":  "Controlled depth."
+                          },
+                          {
+                              "title":  "Calf raises + stretch",
+                              "duration":  "00:03:00",
+                              "notes":  "Full range."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-DB-PULL20",
+        "WORKOUT_NAME":  "Dumbbell Pull (Back + Biceps)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Warm-up",
+                              "duration":  "00:03:00",
+                              "notes":  "Activate upper back."
+                          },
+                          {
+                              "title":  "1-arm DB row",
+                              "duration":  "00:08:00",
+                              "notes":  "Pause at top."
+                          },
+                          {
+                              "title":  "DB RDL",
+                              "duration":  "00:05:00",
+                              "notes":  "Hinge at hips."
+                          },
+                          {
+                              "title":  "DB curls + stretch",
+                              "duration":  "00:04:00",
+                              "notes":  "Controlled reps."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-DB-SHOULDER15",
+        "WORKOUT_NAME":  "Dumbbell Shoulders (Round Delts)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Warm-up",
+                              "duration":  "00:02:00",
+                              "notes":  "Light mobility."
+                          },
+                          {
+                              "title":  "DB lateral raise",
+                              "duration":  "00:05:00",
+                              "notes":  "Soft elbows."
+                          },
+                          {
+                              "title":  "DB Arnold press",
+                              "duration":  "00:04:00",
+                              "notes":  "Smooth rotation."
+                          },
+                          {
+                              "title":  "Rear delt raise",
+                              "duration":  "00:02:00",
+                              "notes":  "Lead with elbows."
+                          },
+                          {
+                              "title":  "Stretch",
+                              "duration":  "00:02:00",
+                              "notes":  "Open shoulders."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-DELOAD",
+        "WORKOUT_NAME":  "Deload Rules",
+        "EXERCISES":  [
+                          {
+                              "title":  "Deload guidelines",
+                              "duration":  "00:00:00",
+                              "notes":  "Half strength volume; base bike only; breaks maintained; calories unchanged."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-FLOW-15",
+        "WORKOUT_NAME":  "Primal Flow",
+        "EXERCISES":  [
+                          {
+                              "title":  "Ground prep: quadruped rocking + cat–cow (slow) + wrist circles",
+                              "duration":  "00:02:00",
+                              "notes":  "Warm spine and wrists; slow controlled movement; smooth breathing."
+                          },
+                          {
+                              "title":  "Beast flow: beast hold (20–30s) + slow contralateral steps + pause/reset",
+                              "duration":  "00:03:00",
+                              "notes":  "Knees hovering low; back flat; move deliberately; reset shape between reps."
+                          },
+                          {
+                              "title":  "Ape flow: deep squat + side-to-side weight shifts",
+                              "duration":  "00:02:00",
+                              "notes":  "Chest tall; hips open; hands on floor for balance; no forcing depth."
+                          },
+                          {
+                              "title":  "Lizard transitions: lunge step-through + chest rotation",
+                              "duration":  "00:02:00",
+                              "notes":  "Breathe into hips; move gently; switch sides slowly; no stretch pain."
+                          },
+                          {
+                              "title":  "Optional extension: cycle preferred flow section",
+                              "duration":  "00:03:00",
+                              "notes":  "Repeat any section that feels good; keep effort low and fluid."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-MB-12",
+        "WORKOUT_NAME":  "Med Ball Power + Core (6kg)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Warm-up",
+                              "duration":  "00:02:00",
+                              "notes":  "Prep hips and shoulders."
+                          },
+                          {
+                              "title":  "Overhead med-ball thrusters",
+                              "duration":  "00:04:00",
+                              "notes":  "Explosive drive."
+                          },
+                          {
+                              "title":  "Rotational chop",
+                              "duration":  "00:03:00",
+                              "notes":  "Control rotation."
+                          },
+                          {
+                              "title":  "Bear-hug carry march",
+                              "duration":  "00:03:00",
+                              "notes":  "Tall posture; tight core."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-MOVE-10",
+        "WORKOUT_NAME":  "Move/Stress Mode",
+        "EXERCISES":  [
+                          {
+                              "title":  "Reset breathing + shake out",
+                              "duration":  "00:01:00",
+                              "notes":  "Release tension."
+                          },
+                          {
+                              "title":  "2 rounds: push-ups / squats / plank",
+                              "duration":  "00:08:00",
+                              "notes":  "Keep it light."
+                          },
+                          {
+                              "title":  "Breathing + stop",
+                              "duration":  "00:01:00",
+                              "notes":  "Fully downshift."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-NECK-8",
+        "WORKOUT_NAME":  "Neck \u0026 Traps (Thickness)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Neck warm-up",
+                              "duration":  "00:01:00",
+                              "notes":  "Gentle range only."
+                          },
+                          {
+                              "title":  "Neck isometrics",
+                              "duration":  "00:03:00",
+                              "notes":  "Light pressure; steady breath."
+                          },
+                          {
+                              "title":  "Shrugs 3×12",
+                              "duration":  "00:03:00",
+                              "notes":  "3s up / 3s down."
+                          },
+                          {
+                              "title":  "Relax neck + reset posture",
+                              "duration":  "00:01:00",
+                              "notes":  "Lengthen spine."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-OFF-AM15",
+        "WORKOUT_NAME":  "Office AM Bike (Quick)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Easy spin warm-up",
+                              "duration":  "00:03:00",
+                              "notes":  "Light resistance."
+                          },
+                          {
+                              "title":  "Steady ride RPE 4–5",
+                              "duration":  "00:10:00",
+                              "notes":  "Conversational pace."
+                          },
+                          {
+                              "title":  "Cooldown spin",
+                              "duration":  "00:02:00",
+                              "notes":  "Ease effort."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-OFF-AM20",
+        "WORKOUT_NAME":  "Office AM Strength (Minimum Effective)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Warm-up: march + arm circles",
+                              "duration":  "00:02:00",
+                              "notes":  "Wake the body."
+                          },
+                          {
+                              "title":  "Circuit: push-ups / squats / rows",
+                              "duration":  "00:16:00",
+                              "notes":  "2–3 smooth rounds."
+                          },
+                          {
+                              "title":  "Stretch + breathing",
+                              "duration":  "00:02:00",
+                              "notes":  "Reset posture."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-PARA-TECH10",
+        "WORKOUT_NAME":  "Parallette Technique",
+        "EXERCISES":  [
+                          {
+                              "title":  "Wrist prep",
+                              "duration":  "00:02:00",
+                              "notes":  "Gentle circles and rocks."
+                          },
+                          {
+                              "title":  "Support holds 3×15–30s",
+                              "duration":  "00:04:00",
+                              "notes":  "Lock elbows; depress shoulders."
+                          },
+                          {
+                              "title":  "Tuck hold OR tuck knee raises",
+                              "duration":  "00:03:00",
+                              "notes":  "Core tight; slow reps."
+                          },
+                          {
+                              "title":  "Planche lean 2×10–15s",
+                              "duration":  "00:01:00",
+                              "notes":  "Lean only as far as control allows."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-PULL-MICRO5",
+        "WORKOUT_NAME":  "Pull-up Skill Micro (Base)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Scap + grip prep",
+                              "duration":  "00:01:00",
+                              "notes":  "Loosen shoulders and wrists."
+                          },
+                          {
+                              "title":  "Dead hang 10–20s",
+                              "duration":  "00:01:00",
+                              "notes":  "Active shoulders."
+                          },
+                          {
+                              "title":  "Scapular pulls x5",
+                              "duration":  "00:01:00",
+                              "notes":  "No elbow bend."
+                          },
+                          {
+                              "title":  "Negative chin-up OR top hold",
+                              "duration":  "00:01:00",
+                              "notes":  "Slow, controlled descent."
+                          },
+                          {
+                              "title":  "Shake out + rest",
+                              "duration":  "00:01:00",
+                              "notes":  "Reset grip."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-PULL-MICRO8",
+        "WORKOUT_NAME":  "Pull-up Skill Micro (Advanced)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Scap prep",
+                              "duration":  "00:01:00",
+                              "notes":  "Activate lats."
+                          },
+                          {
+                              "title":  "Assisted reps 3×1–3",
+                              "duration":  "00:03:00",
+                              "notes":  "Explosive pull; full control."
+                          },
+                          {
+                              "title":  "Negatives 2×1–2",
+                              "duration":  "00:03:00",
+                              "notes":  "5s lowering."
+                          },
+                          {
+                              "title":  "Hang 20–30s",
+                              "duration":  "00:01:00",
+                              "notes":  "Decompress shoulders."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-REC-15",
+        "WORKOUT_NAME":  "Mobility/Decompression",
+        "EXERCISES":  [
+                          {
+                              "title":  "Reset breathing + neck/shoulder rolls",
+                              "duration":  "00:02:00",
+                              "notes":  "Ease tension."
+                          },
+                          {
+                              "title":  "T-spine mobility: cat–cow OR open books",
+                              "duration":  "00:03:00",
+                              "notes":  "Move segmentally."
+                          },
+                          {
+                              "title":  "T-spine rotation",
+                              "duration":  "00:03:00",
+                              "notes":  "Rotate through mid-back."
+                          },
+                          {
+                              "title":  "Hip mobility",
+                              "duration":  "00:03:00",
+                              "notes":  "Pain-free range."
+                          },
+                          {
+                              "title":  "Glute stretch: figure-4",
+                              "duration":  "00:02:00",
+                              "notes":  "Relax hips."
+                          },
+                          {
+                              "title":  "Breathing: supine belly breathing",
+                              "duration":  "00:02:00",
+                              "notes":  "Long exhales."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-SBX-10",
+        "WORKOUT_NAME":  "Shadowboxing Add-on",
+        "EXERCISES":  [
+                          {
+                              "title":  "Warm-up: light bounce, arm swings",
+                              "duration":  "00:02:00",
+                              "notes":  "Stay loose."
+                          },
+                          {
+                              "title":  "Technique rounds 30s on / 30s off",
+                              "duration":  "00:06:00",
+                              "notes":  "Sharp, relaxed punches."
+                          },
+                          {
+                              "title":  "Cooldown: slow movement + nasal breathing",
+                              "duration":  "00:02:00",
+                              "notes":  "Lower arousal."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-STR-A2",
+        "WORKOUT_NAME":  "Strength A2 (Tempo + Unilateral Bias)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Warm-up",
+                              "duration":  "00:04:00",
+                              "notes":  "Prep joints."
+                          },
+                          {
+                              "title":  "Tempo push-ups + tempo squats",
+                              "duration":  "00:08:00",
+                              "notes":  "3s eccentrics."
+                          },
+                          {
+                              "title":  "Rows + split squat",
+                              "duration":  "00:08:00",
+                              "notes":  "Controlled reps."
+                          },
+                          {
+                              "title":  "Close push-ups + glute bridge",
+                              "duration":  "00:06:00",
+                              "notes":  "Squeeze glutes."
+                          },
+                          {
+                              "title":  "Plank + chest opener stretch",
+                              "duration":  "00:04:00",
+                              "notes":  "Strong brace."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-STR-A25",
+        "WORKOUT_NAME":  "Strength A (Foundation Chest/Leg/Row)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Warm-up: march + arm swings + hip hinges",
+                              "duration":  "00:04:00",
+                              "notes":  "Easy pace; breathe through nose if possible."
+                          },
+                          {
+                              "title":  "Push-ups 8–12 (2 RIR) + Squats 12–15",
+                              "duration":  "00:06:00",
+                              "notes":  "Smooth reps; stop with 2 reps in reserve."
+                          },
+                          {
+                              "title":  "Rows 8–12 + Glute bridges 12–15",
+                              "duration":  "00:06:00",
+                              "notes":  "Squeeze shoulder blades; pause at top of bridges."
+                          },
+                          {
+                              "title":  "Close/Incline push-ups 8–12 + Split squat 8/leg",
+                              "duration":  "00:06:00",
+                              "notes":  "Control the lowering; keep knee tracking over toes."
+                          },
+                          {
+                              "title":  "Plank 40–60s + chest opener stretch",
+                              "duration":  "00:03:00",
+                              "notes":  "Brace hard; long exhales, open chest gently."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-STR-A3",
+        "WORKOUT_NAME":  "Strength A3 (Paused + Strength Retention)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Warm-up",
+                              "duration":  "00:04:00",
+                              "notes":  "Gradual ramp."
+                          },
+                          {
+                              "title":  "Pause push-ups + goblet squat",
+                              "duration":  "00:08:00",
+                              "notes":  "1s pause."
+                          },
+                          {
+                              "title":  "Rows OR 1-arm DB row + hip hinge",
+                              "duration":  "00:08:00",
+                              "notes":  "Stay tight."
+                          },
+                          {
+                              "title":  "Push-up variation + split squat",
+                              "duration":  "00:08:00",
+                              "notes":  "Quality reps."
+                          },
+                          {
+                              "title":  "Plank + breathing",
+                              "duration":  "00:04:00",
+                              "notes":  "Long exhales."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-STR-B2",
+        "WORKOUT_NAME":  "Strength B2 (Shoulder/Core Bias, Lower Leg Load)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Warm-up",
+                              "duration":  "00:04:00",
+                              "notes":  "Prep shoulders."
+                          },
+                          {
+                              "title":  "Pike push-ups OR pike hold",
+                              "duration":  "00:06:00",
+                              "notes":  "Strong shoulder line."
+                          },
+                          {
+                              "title":  "Rows + hip hinge",
+                              "duration":  "00:06:00",
+                              "notes":  "Pause rows."
+                          },
+                          {
+                              "title":  "Push-ups + reverse lunge",
+                              "duration":  "00:06:00",
+                              "notes":  "Reduced leg load."
+                          },
+                          {
+                              "title":  "Dead bug + side plank",
+                              "duration":  "00:06:00",
+                              "notes":  "Anti-extension focus."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-STR-B25",
+        "WORKOUT_NAME":  "Strength B (Foundation Shoulders/Pull/Core)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Warm-up",
+                              "duration":  "00:04:00",
+                              "notes":  "Gradually raise body temperature."
+                          },
+                          {
+                              "title":  "Pike push-up 6–10 + Reverse lunge 8/leg",
+                              "duration":  "00:06:00",
+                              "notes":  "Stay controlled; stop short of failure."
+                          },
+                          {
+                              "title":  "Rows 8–12 + Hip hinge 15",
+                              "duration":  "00:06:00",
+                              "notes":  "Neutral spine; squeeze upper back."
+                          },
+                          {
+                              "title":  "Push-ups 6–10 + Calf raises 15",
+                              "duration":  "00:05:00",
+                              "notes":  "Full range; steady tempo."
+                          },
+                          {
+                              "title":  "Dead bug + stretch",
+                              "duration":  "00:04:00",
+                              "notes":  "Brace core; slow breathing."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-STR-B3",
+        "WORKOUT_NAME":  "Strength B3 (Upper Strength + Calisthenics Prep)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Warm-up",
+                              "duration":  "00:04:00",
+                              "notes":  "Mobilize shoulders."
+                          },
+                          {
+                              "title":  "Pike push-ups OR DB overhead press",
+                              "duration":  "00:08:00",
+                              "notes":  "Light but crisp."
+                          },
+                          {
+                              "title":  "Rows + hip hinge",
+                              "duration":  "00:08:00",
+                              "notes":  "Full control."
+                          },
+                          {
+                              "title":  "Parallette support holds OR dip eccentrics",
+                              "duration":  "00:06:00",
+                              "notes":  "Stable shoulders."
+                          },
+                          {
+                              "title":  "Hollow hold + dead bug + stretch",
+                              "duration":  "00:06:00",
+                              "notes":  "Brace core."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-STR-C2",
+        "WORKOUT_NAME":  "Strength C2 (Hypertrophy Blocks: Delts/Arms/Back)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Warm-up",
+                              "duration":  "00:04:00",
+                              "notes":  "Joint prep."
+                          },
+                          {
+                              "title":  "Rows + DB lateral raise",
+                              "duration":  "00:10:00",
+                              "notes":  "Pause rows."
+                          },
+                          {
+                              "title":  "Push-ups + DB curls",
+                              "duration":  "00:10:00",
+                              "notes":  "Tempo controlled."
+                          },
+                          {
+                              "title":  "Split squat + rear delt raise",
+                              "duration":  "00:08:00",
+                              "notes":  "Stable posture."
+                          },
+                          {
+                              "title":  "Stretch + breathing",
+                              "duration":  "00:03:00",
+                              "notes":  "Recover."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-STR-C25",
+        "WORKOUT_NAME":  "Strength C (Density + Delts/Arms)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Warm-up",
+                              "duration":  "00:04:00",
+                              "notes":  "Raise temperature; prep shoulders, hips, spine."
+                          },
+                          {
+                              "title":  "Density: Push-ups 6–10 (2 RIR)",
+                              "duration":  "00:00:45",
+                              "notes":  "Stop early; rest if finished before switch."
+                          },
+                          {
+                              "title":  "Density: Rows 8–12 (2 RIR)",
+                              "duration":  "00:00:45",
+                              "notes":  "Squeeze shoulder blades; no jerking."
+                          },
+                          {
+                              "title":  "Density: Squats 10–15 (2 RIR)",
+                              "duration":  "00:00:45",
+                              "notes":  "Smooth depth; steady breathing."
+                          },
+                          {
+                              "title":  "Density: Push-ups 6–10 (2 RIR)",
+                              "duration":  "00:00:45",
+                              "notes":  "Consistent reps; clean form."
+                          },
+                          {
+                              "title":  "Density: Rows 8–12 (2 RIR)",
+                              "duration":  "00:00:45",
+                              "notes":  "Pause briefly at top."
+                          },
+                          {
+                              "title":  "Density: Squats 10–15 (2 RIR)",
+                              "duration":  "00:00:45",
+                              "notes":  "Control the descent."
+                          },
+                          {
+                              "title":  "Density: Push-ups 6–10 (2 RIR)",
+                              "duration":  "00:00:45",
+                              "notes":  "Elbows ~30–45°."
+                          },
+                          {
+                              "title":  "Density: Rows 8–12 (2 RIR)",
+                              "duration":  "00:00:45",
+                              "notes":  "Neck neutral; ribs down."
+                          },
+                          {
+                              "title":  "Density: Squats 10–15 (2 RIR)",
+                              "duration":  "00:00:45",
+                              "notes":  "Even foot pressure."
+                          },
+                          {
+                              "title":  "Density: Push-ups 6–10 (2 RIR)",
+                              "duration":  "00:00:45",
+                              "notes":  "Quality over speed."
+                          },
+                          {
+                              "title":  "Density: Rows 8–12 (2 RIR)",
+                              "duration":  "00:00:45",
+                              "notes":  "No momentum."
+                          },
+                          {
+                              "title":  "Density: Squats 10–15 (2 RIR)",
+                              "duration":  "00:00:45",
+                              "notes":  "Stay tall."
+                          },
+                          {
+                              "title":  "Density: Push-ups 6–10 (2 RIR)",
+                              "duration":  "00:00:45",
+                              "notes":  "Final round; stay controlled."
+                          },
+                          {
+                              "title":  "Density: Rows 8–12 (2 RIR)",
+                              "duration":  "00:00:45",
+                              "notes":  "Strong finish."
+                          },
+                          {
+                              "title":  "Density: Squats 10–15 (2 RIR)",
+                              "duration":  "00:00:45",
+                              "notes":  "Do not rush reps."
+                          },
+                          {
+                              "title":  "Density: Push-ups 6–10 (2 RIR)",
+                              "duration":  "00:00:45",
+                              "notes":  "End clean; no grinding."
+                          },
+                          {
+                              "title":  "‘T’ hold 20–30s + rest 30s",
+                              "duration":  "00:02:00",
+                              "notes":  "Prone T; thumbs up; upper-back focus."
+                          },
+                          {
+                              "title":  "‘T’ hold 20–30s + rest 30s",
+                              "duration":  "00:02:00",
+                              "notes":  "Posture reset; smooth breathing."
+                          },
+                          {
+                              "title":  "Close push-ups 6–10",
+                              "duration":  "00:02:00",
+                              "notes":  "Hands inside shoulders; elbows tucked."
+                          },
+                          {
+                              "title":  "Stretch + breathing",
+                              "duration":  "00:03:00",
+                              "notes":  "Chest opener, hip flexor stretch, then supine breathing (4s in / 6–8s out)."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-STRETCH-20",
+        "WORKOUT_NAME":  "Deep Stretch (Hips/Shoulders/Spine)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Breathing + cat–cow",
+                              "duration":  "00:04:00",
+                              "notes":  "Sync breath with movement."
+                          },
+                          {
+                              "title":  "Hip flexor + glute stretches",
+                              "duration":  "00:06:00",
+                              "notes":  "Stay relaxed; no forcing."
+                          },
+                          {
+                              "title":  "Thoracic rotations + doorway pec stretch",
+                              "duration":  "00:05:00",
+                              "notes":  "Rotate through upper spine."
+                          },
+                          {
+                              "title":  "Hamstring + calf stretch",
+                              "duration":  "00:05:00",
+                              "notes":  "Slow exhales."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-UPPER12",
+        "WORKOUT_NAME":  "Upper Body Only (Physical Job Friendly)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Warm-up",
+                              "duration":  "00:02:00",
+                              "notes":  "Light mobility."
+                          },
+                          {
+                              "title":  "Circuit: push-ups / rows / pike hold",
+                              "duration":  "00:08:00",
+                              "notes":  "Easy effort."
+                          },
+                          {
+                              "title":  "Stretch",
+                              "duration":  "00:02:00",
+                              "notes":  "Open chest."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-CARD-B30",
+        "WORKOUT_NAME":  "Replacement for WF-BIKE-B30 (Aerobic Base)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Warm-up: light squats + arm circles + easy shadow boxing",
+                              "duration":  "00:05:00",
+                              "notes":  "Gradually raise heart rate; stay relaxed."
+                          },
+                          {
+                              "title":  "Shadow boxing (constant movement)",
+                              "duration":  "00:01:30",
+                              "notes":  "Light feet; steady rhythm."
+                          },
+                          {
+                              "title":  "Step-ups on chair/stair",
+                              "duration":  "00:01:00",
+                              "notes":  "Alternate legs smoothly."
+                          },
+                          {
+                              "title":  "Mountain climbers (moderate pace)",
+                              "duration":  "00:01:00",
+                              "notes":  "Controlled tempo; keep moving."
+                          },
+                          {
+                              "title":  "Walk around room",
+                              "duration":  "00:00:30",
+                              "notes":  "Short active recovery."
+                          },
+                          {
+                              "title":  "Shadow boxing (constant movement)",
+                              "duration":  "00:01:30",
+                              "notes":  "Stay loose; keep hands moving."
+                          },
+                          {
+                              "title":  "Step-ups on chair/stair",
+                              "duration":  "00:01:00",
+                              "notes":  "Steady pace."
+                          },
+                          {
+                              "title":  "Mountain climbers (moderate pace)",
+                              "duration":  "00:01:00",
+                              "notes":  "No rushing."
+                          },
+                          {
+                              "title":  "Walk around room",
+                              "duration":  "00:00:30",
+                              "notes":  "Breathe and reset."
+                          },
+                          {
+                              "title":  "Shadow boxing (constant movement)",
+                              "duration":  "00:01:30",
+                              "notes":  "Keep cadence even."
+                          },
+                          {
+                              "title":  "Step-ups on chair/stair",
+                              "duration":  "00:01:00",
+                              "notes":  "Drive through whole foot."
+                          },
+                          {
+                              "title":  "Mountain climbers (moderate pace)",
+                              "duration":  "00:01:00",
+                              "notes":  "Hips steady."
+                          },
+                          {
+                              "title":  "Walk around room",
+                              "duration":  "00:00:30",
+                              "notes":  "Stay moving."
+                          },
+                          {
+                              "title":  "Shadow boxing (constant movement)",
+                              "duration":  "00:01:30",
+                              "notes":  "Smooth punches; conversational effort."
+                          },
+                          {
+                              "title":  "Step-ups on chair/stair",
+                              "duration":  "00:01:00",
+                              "notes":  "Controlled pace."
+                          },
+                          {
+                              "title":  "Mountain climbers (moderate pace)",
+                              "duration":  "00:01:00",
+                              "notes":  "Moderate effort."
+                          },
+                          {
+                              "title":  "Walk around room",
+                              "duration":  "00:00:30",
+                              "notes":  "Short reset."
+                          },
+                          {
+                              "title":  "Shadow boxing (constant movement)",
+                              "duration":  "00:01:30",
+                              "notes":  "Finish steady."
+                          },
+                          {
+                              "title":  "Step-ups on chair/stair",
+                              "duration":  "00:01:00",
+                              "notes":  "Light but continuous."
+                          },
+                          {
+                              "title":  "Mountain climbers (moderate pace)",
+                              "duration":  "00:01:00",
+                              "notes":  "Keep form tidy."
+                          },
+                          {
+                              "title":  "Walk around room",
+                              "duration":  "00:00:30",
+                              "notes":  "Last active recovery."
+                          },
+                          {
+                              "title":  "Slow walk + deep breathing",
+                              "duration":  "00:05:00",
+                              "notes":  "Gradually lower heart rate."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-CARD-I30",
+        "WORKOUT_NAME":  "Replacement for WF-BIKE-B30 (Intervals)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Warm-up: mobility + easy climbers + jumping jacks",
+                              "duration":  "00:06:00",
+                              "notes":  "Build heat gradually."
+                          },
+                          {
+                              "title":  "Moderate: fast shadow boxing",
+                              "duration":  "00:01:00",
+                              "notes":  "Sharp pace; still controlled."
+                          },
+                          {
+                              "title":  "Hard: mountain climbers (fast)",
+                              "duration":  "00:00:30",
+                              "notes":  "Push pace; stay clean."
+                          },
+                          {
+                              "title":  "Moderate: step-ups",
+                              "duration":  "00:01:00",
+                              "notes":  "Quick feet; steady breathing."
+                          },
+                          {
+                              "title":  "Hard: jumping jacks",
+                              "duration":  "00:00:30",
+                              "notes":  "Crisp tempo."
+                          },
+                          {
+                              "title":  "Moderate: squat-to-reach",
+                              "duration":  "00:01:00",
+                              "notes":  "Keep rhythm smooth."
+                          },
+                          {
+                              "title":  "Hard: skater hops",
+                              "duration":  "00:00:30",
+                              "notes":  "Explosive but controlled."
+                          },
+                          {
+                              "title":  "Moderate: fast shadow boxing",
+                              "duration":  "00:01:00",
+                              "notes":  "Stay light on feet."
+                          },
+                          {
+                              "title":  "Hard: mountain climbers (fast)",
+                              "duration":  "00:00:30",
+                              "notes":  "Keep hips low."
+                          },
+                          {
+                              "title":  "Moderate: step-ups",
+                              "duration":  "00:01:00",
+                              "notes":  "Consistent turnover."
+                          },
+                          {
+                              "title":  "Hard: jumping jacks",
+                              "duration":  "00:00:30",
+                              "notes":  "Fast hands and feet."
+                          },
+                          {
+                              "title":  "Moderate: squat-to-reach",
+                              "duration":  "00:01:00",
+                              "notes":  "Stay tall at the top."
+                          },
+                          {
+                              "title":  "Hard: skater hops",
+                              "duration":  "00:00:30",
+                              "notes":  "Controlled landing."
+                          },
+                          {
+                              "title":  "Moderate: fast shadow boxing",
+                              "duration":  "00:01:00",
+                              "notes":  "Final moderate push."
+                          },
+                          {
+                              "title":  "Hard: burpees (optional)",
+                              "duration":  "00:00:30",
+                              "notes":  "Only if movement quality stays high."
+                          },
+                          {
+                              "title":  "Extra easy movement buffer",
+                              "duration":  "00:06:00",
+                              "notes":  "Source timing leaves 6 minutes unassigned; use light walking or very easy movement before cooldown."
+                          },
+                          {
+                              "title":  "Cooldown walk + breathing",
+                              "duration":  "00:06:00",
+                              "notes":  "Slow steps; deep breaths."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-CARD-T25",
+        "WORKOUT_NAME":  "Replacement for WF-BIKE-B25 (Tempo)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Warm-up",
+                              "duration":  "00:05:00",
+                              "notes":  "Light movement; gradually build pace."
+                          },
+                          {
+                              "title":  "Fast shadow boxing",
+                              "duration":  "00:01:30",
+                              "notes":  "Tempo effort; keep moving."
+                          },
+                          {
+                              "title":  "Step-ups",
+                              "duration":  "00:01:30",
+                              "notes":  "Steady drive; stay rhythmic."
+                          },
+                          {
+                              "title":  "Mountain climbers (moderate pace)",
+                              "duration":  "00:01:00",
+                              "notes":  "Tempo, not sprint."
+                          },
+                          {
+                              "title":  "High-speed climbers",
+                              "duration":  "00:00:30",
+                              "notes":  "First 30s surge."
+                          },
+                          {
+                              "title":  "Squat pulses",
+                              "duration":  "00:01:30",
+                              "notes":  "Continuous tension."
+                          },
+                          {
+                              "title":  "Fast shadow boxing",
+                              "duration":  "00:01:30",
+                              "notes":  "Keep shoulders relaxed."
+                          },
+                          {
+                              "title":  "Step-ups",
+                              "duration":  "00:01:30",
+                              "notes":  "Stay smooth."
+                          },
+                          {
+                              "title":  "Mountain climbers (moderate pace)",
+                              "duration":  "00:00:30",
+                              "notes":  "Set up for next surge."
+                          },
+                          {
+                              "title":  "High-speed climbers",
+                              "duration":  "00:00:30",
+                              "notes":  "Second 30s surge."
+                          },
+                          {
+                              "title":  "Squat pulses",
+                              "duration":  "00:01:30",
+                              "notes":  "Stay at tempo."
+                          },
+                          {
+                              "title":  "Fast shadow boxing",
+                              "duration":  "00:01:30",
+                              "notes":  "Keep effort at RPE 6–7."
+                          },
+                          {
+                              "title":  "Step-ups",
+                              "duration":  "00:01:30",
+                              "notes":  "Finish strong and steady."
+                          },
+                          {
+                              "title":  "Mountain climbers (moderate pace)",
+                              "duration":  "00:00:30",
+                              "notes":  "Set up final surge."
+                          },
+                          {
+                              "title":  "High-speed climbers",
+                              "duration":  "00:00:30",
+                              "notes":  "Final 30s surge."
+                          },
+                          {
+                              "title":  "Cooldown",
+                              "duration":  "00:05:00",
+                              "notes":  "Ease down gradually."
+                          }
+                      ]
+    },
+    {
+        "WORKOUT_ID":  "WF-CARD-B40",
+        "WORKOUT_NAME":  "Replacement for WF-BIKE-B40 (Long Base)",
+        "EXERCISES":  [
+                          {
+                              "title":  "Warm-up",
+                              "duration":  "00:05:00",
+                              "notes":  "Light movement; open joints."
+                          },
+                          {
+                              "title":  "Shadow boxing",
+                              "duration":  "00:01:30",
+                              "notes":  "Constant movement; easy aerobic pace."
+                          },
+                          {
+                              "title":  "Step-ups",
+                              "duration":  "00:01:30",
+                              "notes":  "Steady cadence."
+                          },
+                          {
+                              "title":  "Mountain climbers",
+                              "duration":  "00:00:45",
+                              "notes":  "Moderate pace."
+                          },
+                          {
+                              "title":  "Faster pace climbers or jumping jacks",
+                              "duration":  "00:00:45",
+                              "notes":  "Insert the 45s push here."
+                          },
+                          {
+                              "title":  "Walk",
+                              "duration":  "00:00:30",
+                              "notes":  "Walk segment absorbed to fit the 30-minute main block."
+                          },
+                          {
+                              "title":  "Shadow boxing",
+                              "duration":  "00:01:30",
+                              "notes":  "Stay relaxed."
+                          },
+                          {
+                              "title":  "Step-ups",
+                              "duration":  "00:01:30",
+                              "notes":  "Controlled pace."
+                          },
+                          {
+                              "title":  "Mountain climbers",
+                              "duration":  "00:00:45",
+                              "notes":  "Moderate effort."
+                          },
+                          {
+                              "title":  "Faster pace climbers or jumping jacks",
+                              "duration":  "00:00:45",
+                              "notes":  "Second 45s push."
+                          },
+                          {
+                              "title":  "Walk",
+                              "duration":  "00:00:30",
+                              "notes":  "Walk segment absorbed to fit total time."
+                          },
+                          {
+                              "title":  "Shadow boxing",
+                              "duration":  "00:01:30",
+                              "notes":  "Keep it fluid."
+                          },
+                          {
+                              "title":  "Step-ups",
+                              "duration":  "00:01:30",
+                              "notes":  "Consistent effort."
+                          },
+                          {
+                              "title":  "Mountain climbers",
+                              "duration":  "00:00:45",
+                              "notes":  "Moderate pace."
+                          },
+                          {
+                              "title":  "Faster pace climbers or jumping jacks",
+                              "duration":  "00:00:45",
+                              "notes":  "Third 45s push."
+                          },
+                          {
+                              "title":  "Walk",
+                              "duration":  "00:00:30",
+                              "notes":  "Walk segment absorbed to fit total time."
+                          },
+                          {
+                              "title":  "Shadow boxing",
+                              "duration":  "00:01:30",
+                              "notes":  "Steady breathing."
+                          },
+                          {
+                              "title":  "Step-ups",
+                              "duration":  "00:01:30",
+                              "notes":  "Keep rhythm."
+                          },
+                          {
+                              "title":  "Mountain climbers",
+                              "duration":  "00:00:45",
+                              "notes":  "Moderate effort."
+                          },
+                          {
+                              "title":  "Faster pace climbers or jumping jacks",
+                              "duration":  "00:00:45",
+                              "notes":  "Fourth 45s push."
+                          },
+                          {
+                              "title":  "Walk",
+                              "duration":  "00:00:30",
+                              "notes":  "Walk segment absorbed to fit total time."
+                          },
+                          {
+                              "title":  "Shadow boxing",
+                              "duration":  "00:01:30",
+                              "notes":  "Smooth movement."
+                          },
+                          {
+                              "title":  "Step-ups",
+                              "duration":  "00:01:30",
+                              "notes":  "Stay light on feet."
+                          },
+                          {
+                              "title":  "Mountain climbers",
+                              "duration":  "00:00:45",
+                              "notes":  "Moderate pace."
+                          },
+                          {
+                              "title":  "Faster pace climbers or jumping jacks",
+                              "duration":  "00:00:45",
+                              "notes":  "Fifth 45s push."
+                          },
+                          {
+                              "title":  "Walk",
+                              "duration":  "00:00:30",
+                              "notes":  "Walk segment absorbed to fit total time."
+                          },
+                          {
+                              "title":  "Shadow boxing",
+                              "duration":  "00:01:30",
+                              "notes":  "Final steady block."
+                          },
+                          {
+                              "title":  "Step-ups",
+                              "duration":  "00:01:30",
+                              "notes":  "Controlled finish."
+                          },
+                          {
+                              "title":  "Mountain climbers",
+                              "duration":  "00:00:45",
+                              "notes":  "Moderate effort."
+                          },
+                          {
+                              "title":  "Faster pace climbers or jumping jacks",
+                              "duration":  "00:00:45",
+                              "notes":  "Sixth 45s push."
+                          },
+                          {
+                              "title":  "Walk",
+                              "duration":  "00:00:30",
+                              "notes":  "Walk segment absorbed to fit total time."
+                          },
+                          {
+                              "title":  "Cooldown",
+                              "duration":  "00:05:00",
+                              "notes":  "Easy movement; deep breathing."
+                          }
+                      ]
+    }
+]

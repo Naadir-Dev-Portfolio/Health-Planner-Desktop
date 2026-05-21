@@ -1,0 +1,9 @@
+README.txt
+
+What this Python script does:
+
+- Reads all sheets from the source .xlsm Excel file.
+- Extracts tabular data from each sheet.
+- Converts the data into clean, browser-friendly JSON.
+- Overwrites the existing /data folder on every run.
+- Writes one JSON file per sheet plus a workbook index file.

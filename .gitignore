@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Personal data files — generate your own with convertData.py
+master_plan.xlsm
+master_plan.xlsx
+
+# SQLite cache (auto-generated)
+*.sqlite3
+
+# Widget state (auto-generated at runtime)
+widget_positions/
+
+# OS
+.DS_Store
+Thumbs.db
