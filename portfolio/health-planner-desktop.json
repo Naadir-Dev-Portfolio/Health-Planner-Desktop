@@ -1,0 +1,18 @@
+{
+  "section": "python",
+  "category": "desktop",
+  "n": 3,
+  "title": "Health-Planner-Desktop",
+  "img": "health-planner-desktop.png",
+  "imgFeatured": "health-planner-desktop-featured.png",
+  "desc": "A custom desktop app containing an entire workout plan built in Python and the Pyqt6 framework with built in webengine. The python web engine embeds  a customer webapp built in vanilla Javascipt. This is a desktop version of a mobile app built in React Native. (see mobile section).",
+  "code": "https://github.com/Naadir-Dev-Portfolio/Health-Planner-Desktop/blob/main/README.md",
+  "details": "https://github.com/Naadir-Dev-Portfolio/Health-Planner-Desktop/blob/main/README.md",
+  "tags": [
+    "python",
+    "pyqt",
+    "HTML",
+    "CSS",
+    "Javascript"
+  ]
+}
